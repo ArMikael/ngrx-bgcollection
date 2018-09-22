@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Brass: Lancashire",
+    "author": "Martin Wallace",
+    "genre": ["Strategy", "Economy", "Euro"],
+    "year": "2018",
+    "image": "assets/brass.jpg"
+  },
+  {
+    "title": "Scythe",
+    "author": "Jamey Stegmaier",
+    "genre": ["Strategy", "Euro"],
+    "year": "2016",
+    "image": "assets/scythe.jpg"
+  },
+  {
+    "title": "Pandemic Legacy: Season 1",
+    "author": "Rob Daviau, Matt Leacock",
+    "genre": ["Strategy", "Thematic", "Cooperative", "Legacy"],
+    "year": "2015",
+    "image": "assets/pandemic-legacy-s1.jpg"
+  },
+  {
+    "title": "Terraforming Mars",
+    "author": "Jacob Fryxelius",
+    "genre": ["Strategy", "Euro"],
+    "year": "2016",
+    "image": "assets/terraforming-mars.jpg"
+  }
+]
